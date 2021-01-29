@@ -1,4 +1,3 @@
-### Hello I'm Taha, welcome to my GitHup page 👋
 <h1 align="center"> Welcome to my GitHup page 👋</h1>
 <h3 align="center">I'm Taha Varol.I'm a student in the Department of Management Information Systems.</h3>
 <!--
