@@ -1,5 +1,6 @@
 ### Hello I'm Taha, welcome to my GitHup page 👋
-
+<h1 align="center"> Welcome to my GitHup page 👋</h1>
+<h3 align="center">I'm Taha Varol.I'm a student in the Department of Management Information Systems.</h3>
 <!--
 **varoltahaa/varoltahaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
